@@ -1,2 +1,2 @@
 # YumBagels.com
-Php based project
+Php and mysql based project
